@@ -1,0 +1,10 @@
+sensors:
+  - {id: S1, x: -240, y: 240, soil_moisture: 38, soil_temperature: 25, soil_pH: 6.7}
+  - {id: S2, x: 0, y: 240, soil_moisture: 31, soil_temperature: 26, soil_pH: 6.5}
+  - {id: S3, x: 240, y: 240, soil_moisture: 19, soil_temperature: 30, soil_pH: 6.1}
+  - {id: S4, x: -240, y: 0, soil_moisture: 35, soil_temperature: 25, soil_pH: 6.8}
+  - {id: S5, x: 0, y: 0, soil_moisture: 30, soil_temperature: 26, soil_pH: 6.5}
+  - {id: S6, x: 240, y: 0, soil_moisture: 24, soil_temperature: 28, soil_pH: 6.3}
+  - {id: S7, x: -240, y: -240, soil_moisture: 29, soil_temperature: 27, soil_pH: 6.8}
+  - {id: S8, x: 0, y: -240, soil_moisture: 33, soil_temperature: 25, soil_pH: 6.6}
+  - {id: S9, x: 240, y: -240, soil_moisture: 22, soil_temperature: 29, soil_pH: 6.2}

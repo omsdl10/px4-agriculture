@@ -1,0 +1,5 @@
+drones:
+  - {name: UAV1, instance: 0, system_id: 1, spawn: [-6, -6, 0.3], field: A, role: rgb_mapping}
+  - {name: UAV2, instance: 1, system_id: 2, spawn: [-2, -6, 0.3], field: B, role: crop_health}
+  - {name: UAV3, instance: 2, system_id: 3, spawn: [2, -6, 0.3], field: C, role: irrigation}
+  - {name: UAV4, instance: 3, system_id: 4, spawn: [6, -6, 0.3], field: D, role: anomaly_inspection}

@@ -1,0 +1,30 @@
+Detected locale "C" with character encoding "US-ASCII", which is not UTF-8.
+Qt depends on a UTF-8 locale, and has switched to "UTF-8" instead.
+If this causes problems, reconfigure your locale. See the locale(1) manual
+for more information.
+(2026-09-25 11:18:32.933) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/Main.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:33.716) [warning] [Application.cc:923] [GUI] [QT] Populating font family aliases took 101 ms. Replace uses of missing font family "Roboto" with one that exists to avoid this cost. 
+(2026-09-25 11:18:33.755) [warning] [Application.cc:923] [GUI] [QT] qrc:qml/Main.qml:163:11: QML ToolBar (parent or ancestor of Material): Binding loop detected for property "foreground":
+qrc:qml/Main.qml:165:5
+(2026-09-25 11:18:34.289) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:34.290) [warning] [Application.cc:923] [GUI] [QT] Member enabled of the object GzRulers_QMLTYPE_94 overrides a member of the base object. Consider renaming it or adding final or override specifier
+(2026-09-25 11:18:34.430) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:34.460) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:34.486) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:34.512) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:34.537) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:34.564) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:34.594) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:34.635) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:34.676) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:34.712) [warning] [Application.cc:923] [GUI] [QT] Member data of the object QQuickRectangle_QML_124 overrides a member of the base object. Consider renaming it or adding final or override specifier
+(2026-09-25 11:18:34.714) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:34.760) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:34.803) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:34.871) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:34.911) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:34.944) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:35.021) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:35.073) [warning] [Application.cc:923] [GUI] [QT] QQmlComponent: attempted to load via a relative URL 'qrc:qml/GzCard.qml' in resource file system. This is not fully supported and may not work
+(2026-09-25 11:18:36.531) [warning] [Ogre2RenderTarget.cc:669] [GUI] Anti-aliasing level of '8' is not supported; valid FSAA levels are: [ 1 2 4 ]. Setting to 1
+(2026-09-25 11:35:48.734) [warning] [Application.cc:923] [GUI] [QT] QObject::disconnect: wildcard call disconnects from destroyed signal of gz::sim::TreeModel::unnamed

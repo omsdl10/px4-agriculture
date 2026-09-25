@@ -1,0 +1,60 @@
+{
+  "passed": true,
+  "compact": true,
+  "airborne": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "returned_home_waypoint_reached": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "disarmed": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "reached_sequences": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  ]
+}

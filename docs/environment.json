@@ -1,0 +1,62 @@
+{
+  "os": "macOS-14.6.1-arm64-arm-64bit-Mach-O",
+  "architecture": "arm64",
+  "python": "3.14.6",
+  "px4": {
+    "command": [
+      "git",
+      "-C",
+      "/Users/omsingh/PX4-Autopilot",
+      "describe",
+      "--tags",
+      "--always",
+      "--dirty"
+    ],
+    "returncode": 0,
+    "stdout": "v1.18.0-alpha1-461-ga7a6f4c4d7",
+    "stderr": ""
+  },
+  "px4_submodule": {
+    "command": [
+      "git",
+      "-C",
+      "/Users/omsingh/PX4-Autopilot/Tools/simulation/gz",
+      "rev-parse",
+      "HEAD"
+    ],
+    "returncode": 0,
+    "stdout": "bb0b9cf974acf4f1bcb5f5fcf80b88841562dea9",
+    "stderr": ""
+  },
+  "gz": {
+    "command": [
+      "gz",
+      "sim",
+      "--versions"
+    ],
+    "returncode": 0,
+    "stdout": "10.4.0",
+    "stderr": ""
+  },
+  "cmake": {
+    "command": [
+      "cmake",
+      "--version"
+    ],
+    "returncode": 0,
+    "stdout": "cmake version 4.3.4\n\nCMake suite maintained and supported by Kitware (kitware.com/cmake).",
+    "stderr": ""
+  },
+  "ninja": {
+    "command": [
+      "ninja",
+      "--version"
+    ],
+    "returncode": 0,
+    "stdout": "1.13.2",
+    "stderr": ""
+  },
+  "ros2": {
+    "available": false
+  }
+}

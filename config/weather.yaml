@@ -1,0 +1,6 @@
+# wind_gust is peak speed, not an additive component. Directions are ENU degrees.
+normal: {wind_speed: 1, wind_direction: 0, wind_gust: 1, temperature: 25, humidity: 50, pressure: 101325, sunlight: 1.0, rainfall: 0, visibility: 10000}
+moderate_wind: {wind_speed: 5, wind_direction: 45, wind_gust: 8, temperature: 25, humidity: 50, pressure: 101325, sunlight: 0.8, rainfall: 0, visibility: 8000}
+strong_wind: {wind_speed: 10, wind_direction: 90, wind_gust: 15, temperature: 25, humidity: 50, pressure: 101325, sunlight: 0.7, rainfall: 0, visibility: 6000}
+hot_dry: {wind_speed: 2, wind_direction: 0, wind_gust: 3, temperature: 38, humidity: 25, pressure: 101325, sunlight: 1.0, rainfall: 0, visibility: 10000, moisture_scale: 0.6}
+humid: {wind_speed: 1, wind_direction: 0, wind_gust: 2, temperature: 26, humidity: 85, pressure: 101325, sunlight: 0.5, rainfall: 0, visibility: 5000, moisture_scale: 1.3}

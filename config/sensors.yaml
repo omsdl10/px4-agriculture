@@ -1,0 +1,3 @@
+rgb: {enabled: true, rate_hz: 2, width: 320, height: 240, horizontal_fov_rad: 1.047}
+depth: {enabled: true, rate_hz: 2, width: 160, height: 120, horizontal_fov_rad: 1.047}
+# Raw IMU, magnetometer, barometer and GPS remain in native PX4 ULog.

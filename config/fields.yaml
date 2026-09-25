@@ -1,0 +1,5 @@
+fields:
+  - {id: A, bounds: [-380, -40, 40, 380], crop_type: wheat, health: healthy, density: 0.95, moisture: 41, red: 0.06, nir: 0.61}
+  - {id: B, bounds: [40, 380, 40, 380], crop_type: wheat, health: water_stressed, density: 0.75, moisture: 17, red: 0.22, nir: 0.50}
+  - {id: C, bounds: [-380, -40, -380, -40], crop_type: maize, health: uneven_growth, density: 0.7, moisture: 29, red: 0.12, nir: 0.56}
+  - {id: D, bounds: [40, 380, -380, -40], crop_type: maize, health: diseased_patches, density: 0.6, moisture: 24, red: 0.20, nir: 0.43}

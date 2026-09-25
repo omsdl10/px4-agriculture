@@ -1,0 +1,12 @@
+world_name: agriculture
+map_size_m: 1000
+random_seed: 42
+quality: low
+terrain_amplitude_m: 3.0
+px4_root: ~/PX4-Autopilot
+mission_altitude_agl_m: 15
+mission_speed_m_s: 5
+survey_spacing_m: 12
+safety_separation_m: 3
+logging_rate_hz: 5
+weather_profile: normal
